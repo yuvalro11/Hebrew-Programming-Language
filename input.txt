@@ -1,0 +1,9 @@
+ה = "שלום"
+ב = ר"היי"
+d  = "d\n d"
+a = "dsad\tt \rr\n sdad" // dsad
+
+/* dsad
+* asd
+* dasd
+*/
